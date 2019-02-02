@@ -1,0 +1,7 @@
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\bin\Release\Bitrix24.Core.dll
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\bin\Release\Bitrix24.Core.pdb
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\obj\Release\Bitrix24.Core.csprojResolveAssemblyReference.cache
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\obj\Release\Bitrix24.Core.Properties.Resources.resources
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\obj\Release\Bitrix24.Core.csproj.GenerateResource.Cache
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\obj\Release\Bitrix24.Core.dll
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24.Core\obj\Release\Bitrix24.Core.pdb

@@ -1,0 +1,10 @@
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\Bitrix24Tests.dll
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\Bitrix24Tests.pdb
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\obj\Debug\Bitrix24Tests.csprojResolveAssemblyReference.cache
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\obj\Debug\Bitrix24Tests.dll
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\obj\Debug\Bitrix24Tests.pdb
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\Bitrix24.dll
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\Bitrix24.pdb
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\TestFiles\App 2017-05-16.log
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\Bitrix24Tests.dll.CodeAnalysisLog.xml
+D:\All Prog For Years\BitbuckedLocal\bitrix24\Bitrix24Tests\bin\Debug\Bitrix24Tests.dll.lastcodeanalysissucceeded
